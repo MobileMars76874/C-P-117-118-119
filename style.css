@@ -1,0 +1,29 @@
+body{
+text-align: center;
+overflow: hidden;
+}
+   
+.heading{
+width: 100%;
+font-size: 23px;
+box-shadow: 5px 5px 18px black;
+}
+
+.h{
+float: none;
+}
+
+canvas{
+border-width: 1px;
+border-style: inset;
+border-color: black;
+}
+
+.kk{
+margin: 0;
+}
+
+.hh{
+background-image: url("44077094-scenic-of-clouds-on-heaven-above-the-ground-good-background-for-you-to-put-text-or-people-on-the-gro.jpg");
+height: 410px;
+}
